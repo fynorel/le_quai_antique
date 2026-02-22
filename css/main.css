@@ -12025,3 +12025,7 @@ p {
   justify-content: center;
   align-items: center;
 }
+
+.text-justify {
+  text-align: justify;
+}
